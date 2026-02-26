@@ -2,13 +2,14 @@ print("==================================================")
 print("                  CACULADORA                      ")
 print("==================================================")
 
+#bucle
 while True:
     
     primer_numero = int(input('ingrese el primer numero:'))
     
     print('''
       operaciones.
-      para x² segundo nomero 0
+      para x² segundo numero 0
       
       1) +
       2) -
